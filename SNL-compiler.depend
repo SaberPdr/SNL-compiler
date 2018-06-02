@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1409405792 source:c:\users\«Ô«Ô\desktop\±‡“Î‘≠¿Ì\snl_compiler-cpp\get_token.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lex_type.h"
+	"get_token.h"
+
+1409405792 c:\users\«Ô«Ô\desktop\±‡“Î‘≠¿Ì\snl_compiler-cpp\lex_type.h
+
+1409405792 c:\users\«Ô«Ô\desktop\±‡“Î‘≠¿Ì\snl_compiler-cpp\get_token.h
+	"lex.h"
+
+1409405792 c:\users\«Ô«Ô\desktop\±‡“Î‘≠¿Ì\snl_compiler-cpp\lex.h
+	"lex_type.h"
+
+1409405792 source:c:\users\«Ô«Ô\desktop\±‡“Î‘≠¿Ì\snl_compiler-cpp\lex.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lex.h"
+
+1409405792 source:c:\users\«Ô«Ô\desktop\±‡“Î‘≠¿Ì\snl_compiler-cpp\lex_type.cpp
+	<stdio.h>
+	<string.h>
+	"lex_type.h"
+
+1409405792 source:c:\users\«Ô«Ô\desktop\±‡“Î‘≠¿Ì\snl_compiler-cpp\parse.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parse.h"
+
+1409405792 c:\users\«Ô«Ô\desktop\±‡“Î‘≠¿Ì\snl_compiler-cpp\parse.h
+	<stack>
+	"lex.h"
+	"lex_type.h"
+
+1409405792 source:c:\users\«Ô«Ô\desktop\±‡“Î‘≠¿Ì\snl_compiler-cpp\snlcompiler.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"lex_type.h"
+	"lex.h"
+	"get_token.h"
+	"parse.h"
+	"symbtable.h"
+
+1409405792 c:\users\«Ô«Ô\desktop\±‡“Î‘≠¿Ì\snl_compiler-cpp\symbtable.h
+	"parse.h"
+
+1409405792 source:c:\users\«Ô«Ô\desktop\±‡“Î‘≠¿Ì\snl_compiler-cpp\symbtable.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"symbtable.h"
+
+1409405792 source:e:\c++\snl-compiler\get_token.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lex_type.h"
+	"get_token.h"
+
+1409405792 e:\c++\snl-compiler\lex_type.h
+
+1409405792 e:\c++\snl-compiler\get_token.h
+	"lex.h"
+
+1526526045 e:\c++\snl-compiler\lex.h
+	"lex_type.h"
+
+1526526079 source:e:\c++\snl-compiler\lex.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lex.h"
+
+1409405792 source:e:\c++\snl-compiler\lex_type.cpp
+	<stdio.h>
+	<string.h>
+	"lex_type.h"
+
+1409405792 source:e:\c++\snl-compiler\parse.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parse.h"
+
+1409405792 e:\c++\snl-compiler\parse.h
+	<stack>
+	"lex.h"
+	"lex_type.h"
+
+1526526505 source:e:\c++\snl-compiler\snlcompiler.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"lex_type.h"
+	"lex.h"
+	"get_token.h"
+	"parse.h"
+
